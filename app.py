@@ -140,7 +140,7 @@ def main():
     st.title("Application de Scraping et d'Évaluation")
     # description et sources des donnees
     st.markdown("""
-    Cette application permet de scrapper mais aussi de recolter  les avis en rapport avec la vente des terrains et des appartement a Dakar
+    Cette application permet de scrapper mais aussi de recolter  les avis en rapport avec la vente des terrains et des appartements à Dakar
     * **Python libraries:**  pandas, streamlit, requests, bs4
     * **Data source:** [Terrains](https://sn.coinafrique.com/categorie/terrains  ) -- [Appartements](https://sn.coinafrique.com/categorie/appartements ).
     """)
